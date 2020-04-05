@@ -12,7 +12,7 @@
       <div class="container">
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/karansindhu.jpg">
           </div>
           <div class="content">
             <h2>Karan Sindhu</h2>
@@ -24,7 +24,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/aman.jpg">
           </div>
           <div class="content">
             <h2>Aman Sanduja</h2>
@@ -35,7 +35,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/vicky.jpg">
           </div>
           <div class="content">
             <h2>Vicky Roy</h2>
@@ -46,7 +46,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/rk.jpg">
           </div>
           <div class="content">
             <h2>Rahul Kharbanda</h2>
@@ -58,7 +58,7 @@
         <br>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/lk.jpg">
           </div>
           <div class="content">
             <h2>Leena Kejriwal</h2>
@@ -69,7 +69,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/nikita.jpg">
           </div>
           <div class="content">
             <h2>Nikita Sharma</h2>
@@ -80,7 +80,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/rs.jpg">
           </div>
           <div class="content">
             <h2>Ram Sampath</h2>
@@ -91,7 +91,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/AJ.jpg">
           </div>
           <div class="content">
             <h2>Ashish Joshi</h2>
@@ -100,7 +100,7 @@
               </p>
           </div>
         </div>
-        
+
       </div>
   </div>
   <br>
@@ -116,7 +116,7 @@
       <div class="container">
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Aninda.jpg">
           </div>
           <div class="content">
             <h2>Aninda Bagchi</h2>
@@ -128,7 +128,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Akasa.jpg">
           </div>
           <div class="content">
             <h2>Akasa Singh</h2>
@@ -139,7 +139,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Ankur.jpeg">
           </div>
           <div class="content">
             <h2>Ankur Warikoo</h2>
@@ -150,7 +150,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Shubha.jpeg">
           </div>
           <div class="content">
             <h2>Subhas Vilas</h2>
@@ -162,7 +162,7 @@
         <br>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Sandra.jpg">
           </div>
           <div class="content">
             <h2>Sandra Colhando</h2>
@@ -173,7 +173,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/sukriti.jpg">
           </div>
           <div class="content">
             <h2>RJ Sukriti</h2>
@@ -184,7 +184,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Ishan.jpeg">
           </div>
           <div class="content">
             <h2>Ishan Bose</h2>
@@ -195,7 +195,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Kaustubh.jpeg">
           </div>
           <div class="content">
             <h2>Kaustubh Radkar</h2>
@@ -204,7 +204,6 @@
               </p>
           </div>
         </div>
-
       </div>
   </div>
   <br>
@@ -219,7 +218,7 @@
       <div class="container">
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Monica.jpg">
           </div>
           <div class="content">
             <h2>Monica</h2>
@@ -231,7 +230,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Aranyani.jpg">
           </div>
           <div class="content">
             <h2>Aranyani Bhargav</h2>
@@ -242,7 +241,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Sanjay.jpg">
           </div>
           <div class="content">
             <h2>Sanjay Aggarwal</h2>
@@ -253,7 +252,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/rishabh.jpg">
           </div>
           <div class="content">
             <h2>Rishabh Seen</h2>
@@ -265,7 +264,7 @@
         <br>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/premlata.jpg">
           </div>
           <div class="content">
             <h2>Premlata Agarwal</h2>
@@ -276,7 +275,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/tanmoy.jpg">
           </div>
           <div class="content">
             <h2>Tanmoy Chakrabarty</h2>
@@ -287,7 +286,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/nandini.jpg">
           </div>
           <div class="content">
             <h2>Dr. Nandini Sundar</h2>
@@ -298,7 +297,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/trip.jpg">
           </div>
           <div class="content">
             <h2>The Rural India Project(TRIP)</h2>
@@ -306,8 +305,7 @@
                To Highlight Rural Plight
               </p>
           </div>
-        </div>
-
+        </div> 
       </div>
   </div>
   <br>
@@ -323,7 +321,7 @@
       <div class="container">
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/alisha.jpg">
           </div>
           <div class="content">
             <h2>Alisha Abdullah</h2>
@@ -335,7 +333,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/aaron.png">
           </div>
           <div class="content">
             <h2>Arron Friedland</h2>
@@ -346,7 +344,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/ashok_seth.jpg">
           </div>
           <div class="content">
             <h2>Dr. Ashok Seth</h2>
@@ -357,7 +355,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/dalmia.jpg">
           </div>
           <div class="content">
             <h2>Taru Dalmia</h2>
@@ -369,7 +367,7 @@
         <br>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/dc.jpg">
           </div>
           <div class="content">
             <h2>Dilip Chhabria</h2>
@@ -380,7 +378,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/richa.jpg">
           </div>
           <div class="content">
             <h2>Aricha Chadda</h2>
@@ -391,7 +389,7 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/Sanjay.jpg">
           </div>
           <div class="content">
             <h2>Sanjay Aggarwal</h2>
@@ -402,10 +400,10 @@
         </div>
         <div class="box">
           <div class="imgBox">
-            <img src="https://png.pngtree.com/element_our/png/20181206/users-vector-icon-png_260862.jpg">
+            <img src="./assets/shivangi.jpg">
           </div>
           <div class="content">
-            <h2>Dr. Shibangi Maletia</h2>
+            <h2>Dr. Shivangi Maletia</h2>
             <p>
               Noted Dental Surgeon, Model and Pageant Choreographer
               </p>
@@ -513,7 +511,7 @@
     top: 50%;
     transform: translateY(-50%);
     z-index: 2;
-    padding: 20px;
+    padding: 15px;
     box-sizing: border-box;
 }
 .container .box .content h2{
