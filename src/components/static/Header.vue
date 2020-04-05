@@ -19,7 +19,7 @@
         <b-navbar-item href="#">
           Contact
         </b-navbar-item>
-        <b-navbar-item href="/SpeakerForm">
+        <b-navbar-item tag="router-link" :to="{ path: 'SpeakerFrom' }">
           Speaker
         </b-navbar-item>
       </b-navbar-dropdown>
