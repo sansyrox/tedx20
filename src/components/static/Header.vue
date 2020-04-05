@@ -19,6 +19,9 @@
         <b-navbar-item href="#">
           Contact
         </b-navbar-item>
+        <b-navbar-item href="/SpeakerForm">
+          Speaker
+        </b-navbar-item>
       </b-navbar-dropdown>
     </template>
 
