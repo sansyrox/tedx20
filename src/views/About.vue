@@ -76,6 +76,11 @@ h2 {
   text-align: center;
 }
 
+.content {
+  width: 50%;
+  margin: auto;
+}
+
 .about {
   padding-top: 75px;
 }
@@ -84,23 +89,58 @@ h2 {
   letter-spacing: 0px;
   text-transform: none;
 }
+
 .content {
   width: 50%;
   margin: auto;
 }
+
 .content p {
   padding: 20px;
-  font-family: "Quicksand", sans-serif;
-  text-align: center;
-  font-size: 1em;
-  color: #777;
-  line-height: 1.8;
-}
+  h2 {
+    width: 80%;
+    margin: auto;
+    font-family: "EB Garamond", serif;
+    font-size: 1.8em;
+    font-weight: 700;
+    color: #000000;
+    letter-spacing: 1.5px;
+    text-align: center;
+  }
 
-hr {
-  width: 60px;
-  border: 1px solid #fa163f;
-  background: red;
-  margin-bottom: 45px;
+  .content {
+    width: 50%;
+    margin: auto;
+  }
+
+  .about {
+    padding-top: 75px;
+  }
+
+  .capitalise {
+    letter-spacing: 0px;
+    text-transform: none;
+  }
+
+  .content {
+    width: 50%;
+    margin: auto;
+  }
+
+  .content p {
+    padding: 20px;
+    font-size: 1em;
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+    color: #777;
+    line-height: 1.8;
+  }
+
+  hr {
+    width: 60px;
+    border: 1px solid #fa163f;
+    background: red;
+    margin-bottom: 45px;
+  }
 }
 </style>
