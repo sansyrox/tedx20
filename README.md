@@ -10,9 +10,6 @@ pranjul139
 ```
 npm install
 ```
-```
-npm install --save vue-animejs
-```
 
 ### Compiles and hot-reloads for development
 

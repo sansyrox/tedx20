@@ -41,11 +41,12 @@
 <script src="./script.js"></script>
 <script>
 export default {
+  name: "Animation1",
   components: {},
   mounted: function() {
     this.$anime({
       targets: "#lineDrawing .lines path",
-      strokeDashoffset: [anime.setDashoffset, 0],
+      strokeDashoffset: [this.$anime.setDashoffset, 0],
       easing: "easeInOutSine",
       duration: 3000,
       delay: function(el, i) {
@@ -59,7 +60,8 @@ export default {
 </script>
 <style lang="scss">
 body {
-  background: #050505;
+  background: #050505 !important;
+  width: 100%;
 }
 
 .my-path {
