@@ -2,6 +2,7 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
 import SpeakerForm from "../views/SpeakerForm.vue";
+import pastspeakers from "../views/pastspeakers.vue";
 
 Vue.use(VueRouter);
 
@@ -24,6 +25,11 @@ const routes = [
     path: "/SpeakerForm",
     name: "SpeakerForm",
     component: SpeakerForm
+  },
+  {
+    path: "/pastspeakers",
+    name: "pastspeakers",
+    component: pastspeakers
   }
 ];
 
