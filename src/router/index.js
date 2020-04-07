@@ -4,6 +4,7 @@ import Home from "../views/Home.vue";
 import About from "../views/About.vue";
 import Theme from "../views/Theme.vue";
 import SpeakerForm from "../views/SpeakerForm.vue";
+import pastspeakers from "../views/pastspeakers.vue";
 
 Vue.use(VueRouter);
 
@@ -31,6 +32,11 @@ const routes = [
     path: "/SpeakerForm",
     name: "SpeakerForm",
     component: SpeakerForm
+  },
+  {
+    path: "/pastspeakers",
+    name: "pastspeakers",
+    component: pastspeakers
   }
 ];
 
