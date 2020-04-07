@@ -12,6 +12,10 @@
         </div>
       </div>
     </section>
+    <section>
+      Section for testing animation
+      <Animation1 />
+    </section>
     <section id="sec1" class="section is-large">
       <div class="container">
         <h1 class="title">Section1</h1>
@@ -28,10 +32,12 @@
 
 <script>
 // @ is an alias to /src
-
+import Animation1 from "@/components/static/Animation1.vue";
 export default {
   name: "Home",
-  components: {}
+  components: {
+    Animation1
+  }
 };
 </script>
 
